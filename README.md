@@ -43,7 +43,7 @@ The learners were monitored while participating in a learning session about HTML
 
 ## Pose event detection
 
-It consists of facial detection (link), Euler angle detection (link), and event detection (link).
+It consists of facial detection ([link](https://github.com/BiDAlab/IMPROVE/blob/main/Code/Face%20Detection/Readme.md)), Euler angle detection (link), and event detection (link).
 
 
 ## Signal filtering
