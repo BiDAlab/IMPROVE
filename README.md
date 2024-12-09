@@ -43,7 +43,11 @@ The learners were monitored while participating in a learning session about HTML
 
 ## Detección de eventos de pose
 
-We provide an example code for pose event detection at this [link](). First, we used the popular face detector from the MediaPipe library ([link](https://github.com/google-ai-edge/mediapipe)) and the head pose Euler angle estimator called WHENet ([link](https://github.com/Ascend-Research/HeadPoseEstimation-WHENet).
+We provide example code for pose event detection at this [link]().
+
+For facial detection, we used the [MediaPipe library](https://github.com/google/mediapipe), and for estimating the Euler angles of the head pose, we employed [WHENet](https://github.com/Ascend-Research/HeadPoseEstimation-WHENet). 
+Feel free to explore other options if preferred.
+
 
 
 
