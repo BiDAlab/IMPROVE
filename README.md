@@ -1,4 +1,4 @@
-# IMPROVE
+
 
 ![Sin titulo](https://github.com/BiDAlab/IMPROVE/blob/main/Images/IMPROVE_icon.png)
 
