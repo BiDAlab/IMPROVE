@@ -46,7 +46,7 @@ Some data from the IMPROVE database were preprocessed and included in the databa
 
 
 # Download Data
-1) Download license agreement, send by email one signed and scanned copy to atvs@uam.es according to the instructions given.
+1) [Download license agreement](https://github.com/BiDAlab/IMPROVE/blob/main/License/IMPROVE_License_Agreement.pdf), send by email one signed and scanned copy to atvs@uam.es according to the instructions given.
 
 
 2) Send an email to atvs@uam.es, as follows:
@@ -62,7 +62,6 @@ Some data from the IMPROVE database were preprocessed and included in the databa
 
 For more information, please contact: atvs@uam.es
 
- [Download license agreement](https://github.com/BiDAlab/IMPROVE/blob/main/License/IMPROVE_License_Agreement.pdf)
 
  # References
 + [1] IMPROVE
