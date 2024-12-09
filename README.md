@@ -1,6 +1,6 @@
 # IMPROVE
 
-![Sin titulo](https://github.com/alvarobj/improve/blob/main/Images/improve_icon.png)
+
 ***
 # About
 We present IMPROVE [1], a multimodal database for assessing the impact of mobile phone usage on learners engaged in online education in a 30-minutes learning session. IMPROVE is a database which is initially introduced in arXiv technical report and currently under review in [Scientific Data](https://www.nature.com/sdata/) journal.
