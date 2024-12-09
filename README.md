@@ -41,7 +41,7 @@ The learners were monitored while participating in a learning session about HTML
 
 # Code
 
-## Detección de eventos de pose
+## Pose Event Detection
 
 We provide example code for pose event detection at this [link]().
 
