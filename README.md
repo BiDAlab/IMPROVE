@@ -62,7 +62,7 @@ Some data from the IMPROVE database were preprocessed and included in the databa
 
 For more information, please contact: atvs@uam.es
 
- [Download license agreement](https://github.com/alvarobj/improve/blob/main/License/IMPROVE_License_Agreement.pdf)
+ [Download license agreement](https://github.com/BiDAlab/IMPROVE/blob/main/License/IMPROVE_License_Agreement.pdf)
 
  # References
 + [1] IMPROVE
