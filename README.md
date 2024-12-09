@@ -41,9 +41,10 @@ The learners were monitored while participating in a learning session about HTML
 
 # Code
 
-## Pose event detection
+## Detección de eventos de pose
 
-It consists of facial detection ([link](https://github.com/BiDAlab/IMPROVE/blob/main/Code/Face%20Detection/Readme.md)), Euler angle detection (link), and event detection (link).
+We provide an example code for pose event detection at this [link](). First, we used the popular face detector from the MediaPipe library ([link](https://github.com/google-ai-edge/mediapipe)) and the head pose Euler angle estimator called WHENet ([link](https://github.com/Ascend-Research/HeadPoseEstimation-WHENet).
+
 
 
 ## Signal filtering
