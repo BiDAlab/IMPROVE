@@ -43,7 +43,7 @@ The learners were monitored while participating in a learning session about HTML
 
 ## Pose Event Detection
 
-We provide example code for pose event detection at this [link]().
+We provide example code for pose event detection at this [link](https://github.com/BiDAlab/IMPROVE/tree/main/Code/Pose%20Event%20Detection).
 
 For facial detection, we used the [MediaPipe library](https://github.com/google/mediapipe), and for estimating the Euler angles of the head pose, we employed [WHENet](https://github.com/Ascend-Research/HeadPoseEstimation-WHENet). 
 Feel free to explore other options if preferred.
