@@ -6,7 +6,7 @@ $$mean_{global} \pm (std_{global} \times n)$$
 
 are labeled as events.
 
-To implement this, we define the following function in the file [pose_events.py](https://github.com/BiDAlab/BIOPROCTORING/blob/main/Modules/Pose_Estimation/Code_Pose/pose_events.py):  
+To implement this, we define the following function in the file [events.py](https://github.com/BiDAlab/IMPROVE/blob/main/Code/Pose%20Event%20Detection/events.py):  
 
 ```python
 def pose_events_detection(ID, n, w, fps):
