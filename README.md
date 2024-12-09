@@ -49,7 +49,7 @@ It consists of facial detection ([link](https://github.com/BiDAlab/IMPROVE/blob/
 ## Signal filtering
 Some data from the IMPROVE database were preprocessed and included in the database along with the raw files:
 
-- EEG and heart rate data were filtered to eliminate minor fluctuations and smooth the signals. Interpolation was used to fill gaps in missing values shorter than 5 seconds. [[Example of code for Heart Rate](https://github.com/alvarobj/improve/blob/main/Code/Example_Heart_Rate_Signal.m)]
+- EEG, inertial sensor, and heart rate data were filtered to eliminate minor fluctuations and smooth the signals.  [Example of code for Heart Rate]() [Example of code for Attention signal] [Example of code for Accelerometer]
 
 
 # Download Data
