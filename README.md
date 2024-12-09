@@ -1,5 +1,6 @@
 # IMPROVE
 
+![Sin titulo](https://github.com/BiDAlab/IMPROVE/blob/main/Images/IMPROVE_icon.png)
 
 ***
 # About
@@ -19,7 +20,7 @@ By making this resource available to the scientific community, we aim to foster 
 # Sensors
 The IMPROVE database use a wide range of sensors, as shown in the acquisition setup during the data capture using the edBB platform [3][4]:
 
-![Sin titulo](https://github.com/alvarobj/improve/blob/main/Images/acquisition_setup.png)
+![Sin titulo](https://github.com/BiDAlab/IMPROVE/blob/main/Images/acquisition_setup.png)
 
 - **EEG**: A NeuroSky EEG headset, which measures the power spectrum density across 5 electroencephalographic channels ($\alpha, \beta, \gamma, \delta, \theta$). Through the preprocessing of these EEG channels, estimates of attention and meditation levels, as well as the occurrence of eye blinks, are obtained. 
 - **Eye-tracker**: A Tobii Pro Fusion equipped with two high-speed infrared cameras configured at 120 Hz for eye tracking. This device estimated the following data: gaze origin and point, pupil diameter, eye movement type (fixation, saccade, unclassified, eyes not found), event duration, data quality, eyeblink, and more; allowing us to measure visual attention.
