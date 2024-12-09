@@ -12,7 +12,7 @@ This module is developed using state-of-the-art technology based on Deep Learnin
 
 | &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Detección Facial](https://github.com/BiDAlab/BIOPROCTORING/blob/main/Modules/Face_Detection/Videos/Deteccion_facial.gif)&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:--:|
-|Ejemplo de detección facial mostrando la *bounding box*.|
+|Example of facial detection displaying the *bounding box*.|
 
 # Code
 
