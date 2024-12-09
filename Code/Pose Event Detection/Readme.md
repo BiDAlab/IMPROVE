@@ -21,6 +21,6 @@ Input Parameters:
 
 The detected events are saved in the file `events.csv`, indicating the start and end frame of each event.
 
-![Ejemplo de evento de pose detectado](https://github.com/BiDAlab/BIOPROCTORING/blob/main/Modules/Pose_Estimation/GIF/Evento_detectado.gif)
+![Ejemplo de evento de pose detectado](https://github.com/BiDAlab/IMPROVE/blob/main/Code/Pose%20Event%20Detection/Video/Event.gif)
 |:--:|
 |Example of a Detected Pose Event|
