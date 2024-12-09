@@ -71,6 +71,6 @@ For more information, please contact: atvs@uam.es
 + [5] Becerra, A., Daza, R., Cobos, R., Morales, A., Cukurova, M., & Fierrez, J. **M2LADS: A System for Generating Multimodal Learning Analytics Dashboards.** *In Proc. IEEE 47th Annu. Comput., Softw., Appl. Conf.(COMPSAC)*, pp. 1564–1569, 2023. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10196854)]
 
 # Related works
-- Daza, R., Morales, A., Fierrez, J., Tolosana, R., & Vera-Rodriguez, R. **mEBAL2 Database and Benchmark: Multispectral Eyeblink Detection.** *Pattern Recognition Letters*, **182**, pp. 83–89, 2024. [[pdf](https://arxiv.org/pdf/2309.07880)]
+- Daza, R., Morales, A., Fierrez, J., Tolosana, R., & Vera-Rodriguez, R. **mEBAL2 Database and Benchmark: Multispectral Eyeblink Detection.** *Pattern Recognition Letters*, **182**, pp. 83–89, 2024. [[pdf](https://www.sciencedirect.com/science/article/pii/S0167865524001120)]
 
 - Daza, R., Gomez, L. F., Fierrez, J., Morales, A., Tolosana, R., & Ortega-Garcia, J. **DeepFace-Attention: Multimodal Face Biometrics for Attention Estimation with Application to E-Learning.** *IEEE Access*, **12**, pp. 111343–111359, 2024. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10633208)]
