@@ -38,30 +38,45 @@ Three different groups were formed to understand the effects of mobile phone use
 
   A summary of the participants' academic background, HTML proficiency, medical conditions, and average age is provided in the table below:
 
-  ### Distribution of Learners by Degree Program, HTML Proficiency, Medical Conditions, and Gender.
+ <h3 align="center">Distribution of Learners by Degree Program, HTML Proficiency, Medical Conditions, and Gender</h3>
 
-| Category            | Subcategory                          | Percentage | Number of Learners | Average Age |
-|---------------------|--------------------------------------|------------|--------------------|--------------|
-| Degree Program       | Computer Engineering                 | 32.5%      | 39                 | 21.77        |
-|                     | Telecommunications Engineering       | 30.0%      | 36                 | 22.06        |
-|                     | Biomedical Engineering               | 25.0%      | 30                 | 19.80        |
-|                     | Data Science and Engineering         | 3.3%       | 4                  | 20.00        |
-|                     | Computer Engineering and Mathematics | 9.2%       | 11                 | 20.55        |
-| HTML Proficiency     | None                                 | 42.5%      | 51                 | 20.02        |
-|                     | Beginner                             | 35.8%      | 43                 | 21.95        |
-|                     | Intermediate                         | 16.7%      | 20                 | 21.80        |
-|                     | Advanced                             | 5%         | 6                  | 23.67        |
-| Medical Conditions   | No issues                            | ---        | 55                 | ---          |
-|                     | Glasses                              | ---        | 41                 | ---          |
-|                     | Contact lenses                       | ---        | 19                 | ---          |
-|                     | Heart murmur                         | ---        | 2                  | ---          |
-|                     | Myopia without correction            | ---        | 4                  | ---          |
-| Overall Averages     | Overall Average Age                  | ---        | ---                | 21.19        |
-|                     | Average Age of Male Learners         | 51.83%     | 61                 | 21.64        |
-|                     | Average Age of Female Learners       | 49.16%     | 59                 | 20.73        |
+<div align="center">
 
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Subcategory</th>
+      <th>Percentage</th>
+      <th>Number of Learners</th>
+      <th>Average Age</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Degree Program</td><td>Computer Engineering</td><td>32.5%</td><td>39</td><td>21.77</td></tr>
+    <tr><td></td><td>Telecommunications Engineering</td><td>30.0%</td><td>36</td><td>22.06</td></tr>
+    <tr><td></td><td>Biomedical Engineering</td><td>25.0%</td><td>30</td><td>19.80</td></tr>
+    <tr><td></td><td>Data Science and Engineering</td><td>3.3%</td><td>4</td><td>20.00</td></tr>
+    <tr><td></td><td>Computer Engineering and Mathematics</td><td>9.2%</td><td>11</td><td>20.55</td></tr>
+    <tr><td>HTML Proficiency</td><td>None</td><td>42.5%</td><td>51</td><td>20.02</td></tr>
+    <tr><td></td><td>Beginner</td><td>35.8%</td><td>43</td><td>21.95</td></tr>
+    <tr><td></td><td>Intermediate</td><td>16.7%</td><td>20</td><td>21.80</td></tr>
+    <tr><td></td><td>Advanced</td><td>5%</td><td>6</td><td>23.67</td></tr>
+    <tr><td>Medical Conditions</td><td>No issues</td><td>---</td><td>55</td><td>---</td></tr>
+    <tr><td></td><td>Glasses</td><td>---</td><td>41</td><td>---</td></tr>
+    <tr><td></td><td>Contact lenses</td><td>---</td><td>19</td><td>---</td></tr>
+    <tr><td></td><td>Heart murmur</td><td>---</td><td>2</td><td>---</td></tr>
+    <tr><td></td><td>Myopia without correction</td><td>---</td><td>4</td><td>---</td></tr>
+    <tr><td>Overall Averages</td><td>Overall Average Age</td><td>---</td><td>---</td><td>21.19</td></tr>
+    <tr><td></td><td>Average Age of Male Learners</td><td>51.83%</td><td>61</td><td>21.64</td></tr>
+    <tr><td></td><td>Average Age of Female Learners</td><td>49.16%</td><td>59</td><td>20.73</td></tr>
+  </tbody>
+</table>
 
-*Note: Percentages for medical conditions are not shown because learners may have more than one condition.*
+<p><em>Note: Percentages for medical conditions are not shown because learners may have more than one condition.</em></p>
+
+</div>
+
 
     
 # Task
