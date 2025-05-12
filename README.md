@@ -35,9 +35,38 @@ Three different groups were formed to understand the effects of mobile phone use
 - **Group 1**: Mobile phone use and possession allowed. The device was placed on the learner's desk, visible to the learner, with sound and vibration activated.
 - **Group 2**: Mobile phone possession was allowed, but their use was prohibited. The device was also placed on the learner's desk, but with the screen facing down, and with sound and vibration activated.
 - **Group 3**: The mobile phone was confiscated during the whole learning session.
+
+  A summary of the participants' academic background, HTML proficiency, medical conditions, and average age is provided in the table below:
+
+  ### Distribution of Learners by Degree Program, HTML Proficiency, Medical Conditions, and Gender.
+
+| Category            | Subcategory                          | Percentage | Number of Learners | Average Age |
+|---------------------|--------------------------------------|------------|--------------------|--------------|
+| Degree Program       | Computer Engineering                 | 32.5%      | 39                 | 21.77        |
+|                     | Telecommunications Engineering       | 30.0%      | 36                 | 22.06        |
+|                     | Biomedical Engineering               | 25.0%      | 30                 | 19.80        |
+|                     | Data Science and Engineering         | 3.3%       | 4                  | 20.00        |
+|                     | Computer Engineering and Mathematics | 9.2%       | 11                 | 20.55        |
+| HTML Proficiency     | None                                 | 42.5%      | 51                 | 20.02        |
+|                     | Beginner                             | 35.8%      | 43                 | 21.95        |
+|                     | Intermediate                         | 16.7%      | 20                 | 21.80        |
+|                     | Advanced                             | 5%         | 6                  | 23.67        |
+| Medical Conditions   | No issues                            | ---        | 55                 | ---          |
+|                     | Glasses                              | ---        | 41                 | ---          |
+|                     | Contact lenses                       | ---        | 19                 | ---          |
+|                     | Heart murmur                         | ---        | 2                  | ---          |
+|                     | Myopia without correction            | ---        | 4                  | ---          |
+| Overall Averages     | Overall Average Age                  | ---        | ---                | 21.19        |
+|                     | Average Age of Male Learners         | 51.83%     | 61                 | 21.64        |
+|                     | Average Age of Female Learners       | 49.16%     | 59                 | 20.73        |
+
+
+*Note: Percentages for medical conditions are not shown because learners may have more than one condition.*
+
     
 # Task
 The learners were monitored while participating in a learning session about HTML in a MOOC. Before the session, they completed a pretest to assess their prior knowledge of HTML. During the session, learners watched instructional videos, read documents on language syntax and coding, completed assignments to evaluate their learning, and reviewed their mistakes.
+
 
 # Code
 
