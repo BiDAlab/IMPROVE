@@ -98,7 +98,7 @@ Feel free to explore other options if preferred.
 ## Signal filtering
 Some data from the IMPROVE database were preprocessed and included in the database along with the raw files:
 
-- EEG, inertial sensor, and heart rate data were filtered to eliminate minor fluctuations and smooth the signals.  [Example of code for Heart Rate] (https://github.com/BiDAlab/IMPROVE/blob/main/Code/Signal%20filtering/Filtered_Heart_Rate_Example1.m), [Example of code for Attention signal](https://github.com/BiDAlab/IMPROVE/blob/main/Code/Signal%20filtering/Filtered_Attention_Example.m), [Example of code for Accelerometer](https://github.com/BiDAlab/IMPROVE/blob/main/Code/Signal%20filtering/Filtered_Acc_Example.m).
+- EEG, inertial sensor, and heart rate data were filtered to eliminate minor fluctuations and smooth the signals.  [Example of code for Heart Rate](https://github.com/BiDAlab/IMPROVE/blob/main/Code/Signal%20filtering/Filtered_Heart_Rate_Example1.m), [Example of code for Attention signal](https://github.com/BiDAlab/IMPROVE/blob/main/Code/Signal%20filtering/Filtered_Attention_Example.m), [Example of code for Accelerometer](https://github.com/BiDAlab/IMPROVE/blob/main/Code/Signal%20filtering/Filtered_Acc_Example.m).
 
 
 #  Instructions for Downloading IMPROVE
